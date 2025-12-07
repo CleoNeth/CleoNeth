@@ -1,5 +1,5 @@
 Cleo is here, learning Python rn
-Discord : cleoneth_
+- Discord : cleoneth_
 
 <!---
 CleoNeth/CleoNeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
